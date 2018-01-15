@@ -1,0 +1,634 @@
+[14-Oct-2016 10:54:54 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'mysql.risinginnovators.com/' (2) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 8
+[14-Oct-2016 10:54:54 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 13
+[14-Oct-2016 10:54:54 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 15
+[14-Oct-2016 10:54:54 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 54
+[14-Oct-2016 10:56:41 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'mysql.risinginnovators.com/' (2) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 8
+[14-Oct-2016 10:56:41 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 13
+[14-Oct-2016 10:56:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 15
+[14-Oct-2016 10:56:41 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 54
+[14-Oct-2016 11:10:57 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'mysql11.risinginnovators.com/' (2) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 8
+[14-Oct-2016 11:10:57 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 13
+[14-Oct-2016 11:10:57 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 15
+[14-Oct-2016 11:10:57 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 54
+[14-Oct-2016 11:12:22 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://risinginnovators.com' (0) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 8
+[14-Oct-2016 11:12:22 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 13
+[14-Oct-2016 11:12:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 15
+[14-Oct-2016 11:12:22 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 54
+[14-Oct-2016 11:17:31 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://risinginnovators.com' (2) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 8
+[14-Oct-2016 11:17:31 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 13
+[14-Oct-2016 11:17:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 15
+[14-Oct-2016 11:19:56 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'risinola_ironman'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 8
+[14-Oct-2016 11:19:56 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 14
+[14-Oct-2016 11:19:56 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 16
+[14-Oct-2016 11:24:47 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://risinginnovators.com:2082/' (2) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 8
+[14-Oct-2016 11:24:47 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 14
+[14-Oct-2016 11:24:47 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 16
+[14-Oct-2016 11:31:15 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'risinola_ironman'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 8
+[14-Oct-2016 11:31:15 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 14
+[14-Oct-2016 11:31:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 16
+[14-Oct-2016 11:35:23 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'risinola_ironman'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 8
+[14-Oct-2016 11:35:23 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 14
+[14-Oct-2016 11:35:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 16
+[14-Oct-2016 11:36:13 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 11:36:52 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 11:37:16 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 11:38:20 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 11:38:35 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'risinola_studnt'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 3
+[14-Oct-2016 11:38:48 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'risinola_studnt'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 3
+[14-Oct-2016 11:39:27 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 11:43:26 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'risinola_studnt'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 3
+[14-Oct-2016 11:45:27 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'risinola_studnt'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:46:36 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'risinola_studnt'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:46:43 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'risinola_studnt'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:47:42 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'risinola_studnt'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:47:44 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'risinola_studnt'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:51:58 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'risinola_academics'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:51:58 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 11:52:02 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'risinola_academics'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:52:02 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 11:54:28 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'risinola_academics'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:54:28 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 11:54:31 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'risinola_academics'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:54:31 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 11:59:44 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:59:44 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 11:59:47 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 11:59:47 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:00:22 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:3306' (2) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:00:22 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:00:25 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:3306' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:00:25 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:11:41 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:3306' (2) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:11:41 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:12:03 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinginnovators.com:3306' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:12:03 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:12:05 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinginnovators.com:3306' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:12:05 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:12:07 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinginnovators.com:3306' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:12:07 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:12:09 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinginnovators.com:3306' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:12:09 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:12:10 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinginnovators.com:3306' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:12:10 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:12:29 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'risinola_academics'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:12:31 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'risinola_academics'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:13:42 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinginnovators.com:3306' (2) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:13:42 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:13:45 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinginnovators.com:3306' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:13:45 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:14:25 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:14:25 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:14:26 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:14:26 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:14:28 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:14:28 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:16:15 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (2) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:16:15 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:16:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:16:18 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:16:20 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:16:20 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:16:22 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:16:22 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:16:54 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:16:54 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:16:56 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:16:56 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:16:59 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:16:59 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:17:00 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:17:00 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:17:02 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:17:02 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:18:47 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (2) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:18:47 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:18:49 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:18:49 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:18:51 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:18:51 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:19:07 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:3306' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:19:07 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:19:09 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:3306' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:19:09 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:19:35 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:3306/' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:19:35 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:19:37 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:3306/' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:19:37 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:19:40 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:3306/' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:19:40 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:19:42 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:3306/' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:19:42 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:20:00 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'mysqli.risinginnovators.com:3306/' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:20:00 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:20:02 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'mysqli.risinginnovators.com:3306/' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:20:02 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:20:17 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'mysqli.risinginnovators.com' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:20:17 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:20:19 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'mysqli.risinginnovators.com' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:20:19 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:20:57 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinginnovators.com:3307' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:20:57 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:20:59 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinginnovators.com:3307' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:20:59 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:21:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'risinola_ironman'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:21:10 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:21:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'risinola_ironman'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:21:11 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:21:13 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'risinola_ironman'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:21:13 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:21:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'risinola_ironman'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:21:25 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:21:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'risinola_ironman'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:21:27 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:22:02 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinola@localhost' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:22:02 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:22:04 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinola@localhost' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:22:04 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:22:06 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinola@localhost' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:22:06 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:22:07 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinola@localhost' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:22:07 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:22:09 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'risinola@localhost' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:22:09 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:22:21 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'risinola_ironman'@'localhost' to database 'risinola_academics' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:22:21 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:22:23 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'risinola_ironman'@'localhost' to database 'risinola_academics' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:22:23 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:22:24 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'risinola_ironman'@'localhost' to database 'risinola_academics' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 12:22:24 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:23:02 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 12:24:43 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 12:26:32 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 12:29:11 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 12:30:06 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 12:30:38 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 12:30:54 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 12:30:57 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 12:33:35 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (2) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:33:35 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 12:33:41 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 7
+[14-Oct-2016 12:33:41 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 12:33:43 Etc/GMT] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 12:50:57 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (2) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 8
+[14-Oct-2016 12:50:57 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 13
+[14-Oct-2016 12:50:59 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 8
+[14-Oct-2016 12:50:59 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 13
+[14-Oct-2016 13:03:45 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (2) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 7
+[14-Oct-2016 13:03:45 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 13
+[14-Oct-2016 13:03:45 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 13
+[14-Oct-2016 13:04:31 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 2
+[14-Oct-2016 13:04:31 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 3
+[14-Oct-2016 13:04:31 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 4
+[14-Oct-2016 13:04:31 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 5
+[14-Oct-2016 13:04:31 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 7
+[14-Oct-2016 13:04:31 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 13
+[14-Oct-2016 13:04:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 15
+[14-Oct-2016 13:05:06 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 7
+[14-Oct-2016 13:05:06 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 13
+[14-Oct-2016 13:05:06 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 15
+[14-Oct-2016 13:05:22 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 8
+[14-Oct-2016 13:05:22 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 13
+[14-Oct-2016 13:06:37 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (2) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 7
+[14-Oct-2016 13:06:37 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 15
+[14-Oct-2016 13:06:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 17
+[14-Oct-2016 13:12:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 13:12:12 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 13:12:15 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 13:12:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 13:12:20 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 13:12:52 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 13:12:54 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 13:13:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 13:13:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 13:13:59 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 13:15:16 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 13:15:27 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 13:15:29 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 13:16:11 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 8
+[14-Oct-2016 13:16:36 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 8
+[14-Oct-2016 13:16:36 Etc/GMT] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 13
+[14-Oct-2016 13:16:39 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 8
+[14-Oct-2016 13:16:39 Etc/GMT] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 13
+[14-Oct-2016 13:17:05 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 13:17:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 13:17:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 13:17:55 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 13:19:16 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 13:19:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 13:21:12 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 13:21:27 Etc/GMT] PHP Warning:  mysql_connect(): Unknown MySQL server host 'musql.risinginnovators.com' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 13:21:27 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 13:21:31 Etc/GMT] PHP Warning:  mysql_connect(): Unknown MySQL server host 'musql.risinginnovators.com' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 13:21:31 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 13:21:44 Etc/GMT] PHP Warning:  mysql_connect(): Unknown MySQL server host 'mysql.risinginnovators.com' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 13:21:44 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 13:21:58 Etc/GMT] PHP Warning:  mysql_connect(): Unknown MySQL server host 'mysqli.risinginnovators.com' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 5
+[14-Oct-2016 13:21:58 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 13:22:22 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 14:18:46 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (2) in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 7
+[14-Oct-2016 14:18:46 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 15
+[14-Oct-2016 14:18:46 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 17
+[14-Oct-2016 15:47:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 15:47:12 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 15:47:15 Etc/GMT] PHP Parse error:  syntax error, unexpected 'LId' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 15:52:05 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '192.185.129.5:2082' (2) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:52:05 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:52:25 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:52:25 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:53:10 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:53:10 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:53:19 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:53:19 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:56:55 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://192.185.129.5:2082/' (2) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:56:55 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:56:57 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://192.185.129.5:2082/' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:56:57 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:57:13 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '192.185.129.5:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:57:13 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:57:15 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '192.185.129.5:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:57:15 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:57:16 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '192.185.129.5:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:57:16 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:57:42 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '192.185.129.5:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:57:42 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:57:45 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '192.185.129.5:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:57:45 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:58:03 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host ''www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:58:03 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:58:15 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:58:15 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:58:17 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:58:17 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:58:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.risinginnovators.com:80' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:58:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:58:45 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://192.185.129.5:2082/' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:58:45 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:58:47 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://192.185.129.5:2082/' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:58:47 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:59:03 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '192.185.129.5:2082' (0) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:59:03 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 15:59:41 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'risinola_test1'@'192.185.129.5' (using password: YES) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 10
+[14-Oct-2016 15:59:41 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 12
+[14-Oct-2016 16:11:03 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Pass' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 16:11:06 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Pass' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 16:14:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '"successfkjvnkbv"' (T_CONSTANT_ENCAPSED_STRING) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 16:17:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 16:17:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 16:18:27 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Pass' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 16:19:28 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Pass' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 16:19:31 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Pass' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 16:20:33 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Pass' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 20
+[14-Oct-2016 16:26:07 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Pass' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 16:26:28 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Pass' (T_STRING), expecting ',' or ';' in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 16:27:12 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 16:27:12 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 16:27:12 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 16:27:12 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 21
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:28:03 Etc/GMT] PHP Notice:  Array to string conversion in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 23
+[14-Oct-2016 16:31:22 Etc/GMT] PHP Notice:  Undefined index: Lid in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 16:31:22 Etc/GMT] PHP Notice:  Undefined index: Lid in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 16:31:22 Etc/GMT] PHP Notice:  Undefined index: Lid in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 16:31:24 Etc/GMT] PHP Notice:  Undefined index: Lid in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 16:31:24 Etc/GMT] PHP Notice:  Undefined index: Lid in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 16:31:24 Etc/GMT] PHP Notice:  Undefined index: Lid in /home/risinola/public_html/anujtestmodule.online/pages/test2.php on line 19
+[14-Oct-2016 16:48:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:48:12 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:48:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 19
+[14-Oct-2016 16:49:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:49:12 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:49:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 19
+[14-Oct-2016 16:50:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:50:42 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:50:42 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 19
+[14-Oct-2016 16:51:33 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:51:33 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:51:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 19
+[14-Oct-2016 16:53:05 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:53:05 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:53:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 19
+[14-Oct-2016 16:53:31 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:53:31 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:53:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 19
+[14-Oct-2016 16:54:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:54:16 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 16:54:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 19
+[14-Oct-2016 17:02:23 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 17:02:23 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 17:02:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 19
+[14-Oct-2016 17:02:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 17:02:46 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 9
+[14-Oct-2016 17:02:46 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/stafflogin.php on line 19
+[14-Oct-2016 17:06:50 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 11
+[14-Oct-2016 17:06:50 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 11
+[14-Oct-2016 17:06:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 19
+[14-Oct-2016 17:08:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 11
+[14-Oct-2016 17:08:57 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 11
+[14-Oct-2016 17:08:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:08:57 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 19
+[14-Oct-2016 17:09:39 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 11
+[14-Oct-2016 17:09:39 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 11
+[14-Oct-2016 17:09:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:09:39 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 19
+[14-Oct-2016 17:15:17 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 11
+[14-Oct-2016 17:15:17 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 11
+[14-Oct-2016 17:22:25 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:22:50 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:23:04 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:23:37 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:23:40 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:23:42 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:23:44 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:23:48 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:24:35 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 17
+[14-Oct-2016 17:25:11 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 14
+[14-Oct-2016 17:25:36 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 14
+[14-Oct-2016 17:26:06 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 4
+[14-Oct-2016 17:26:06 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 5
+[14-Oct-2016 17:26:06 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[14-Oct-2016 17:26:06 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[14-Oct-2016 17:26:35 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 4
+[14-Oct-2016 17:26:35 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 5
+[14-Oct-2016 17:26:35 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[14-Oct-2016 17:26:35 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[14-Oct-2016 17:27:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 4
+[14-Oct-2016 17:27:37 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 5
+[14-Oct-2016 17:27:37 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[14-Oct-2016 17:27:37 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[14-Oct-2016 17:28:40 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 4
+[14-Oct-2016 17:28:40 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 5
+[14-Oct-2016 17:28:40 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[14-Oct-2016 17:28:40 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[14-Oct-2016 17:29:47 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 4
+[14-Oct-2016 17:29:47 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 5
+[14-Oct-2016 17:29:47 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[14-Oct-2016 17:29:47 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[14-Oct-2016 17:37:16 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 3
+[14-Oct-2016 17:37:16 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 4
+[14-Oct-2016 17:37:16 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 5
+[14-Oct-2016 17:37:16 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[14-Oct-2016 18:42:55 Etc/GMT] PHP Notice:  Undefined index: $UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 59
+[14-Oct-2016 19:25:44 Etc/GMT] PHP Notice:  Undefined index: $UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 59
+[14-Oct-2016 19:27:38 Etc/GMT] PHP Notice:  Undefined index: $UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 40
+[15-Oct-2016 03:35:06 Etc/GMT] PHP Notice:  Undefined index: $UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 59
+[15-Oct-2016 05:53:23 Etc/GMT] PHP Notice:  Undefined index: $UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 59
+[15-Oct-2016 08:02:47 Etc/GMT] PHP Notice:  Undefined index: $UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 40
+[15-Oct-2016 08:56:07 Etc/GMT] PHP Notice:  Undefined index: $UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 40
+[15-Oct-2016 09:52:14 Etc/GMT] PHP Notice:  Undefined index: $UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 40
+[15-Oct-2016 11:07:45 Etc/GMT] PHP Notice:  Undefined index: $UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 40
+[16-Oct-2016 20:01:15 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[17-Oct-2016 16:54:10 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[17-Oct-2016 16:55:03 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[17-Oct-2016 16:56:17 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[17-Oct-2016 19:29:19 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Oct-2016 07:08:19 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Oct-2016 12:27:19 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Oct-2016 12:34:50 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Oct-2016 18:24:19 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 55
+[18-Oct-2016 18:24:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 55
+[18-Oct-2016 18:24:34 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 55
+[18-Oct-2016 18:24:36 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 55
+[18-Oct-2016 18:25:04 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:25:48 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:25:51 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:26:06 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:26:09 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:26:30 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:28:39 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:28:43 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:29:10 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:29:10 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 49
+[18-Oct-2016 18:29:20 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:29:20 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 49
+[18-Oct-2016 18:29:43 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:29:43 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 49
+[18-Oct-2016 18:29:53 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:29:53 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 49
+[18-Oct-2016 18:29:54 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:29:54 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 49
+[18-Oct-2016 18:30:49 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:30:49 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 49
+[18-Oct-2016 18:30:52 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:30:52 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 49
+[18-Oct-2016 18:31:10 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 11
+[18-Oct-2016 18:31:10 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/usersearch.php on line 49
+[18-Oct-2016 19:01:21 Etc/GMT] PHP Notice:  Undefined index: userid251 in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 124
+[18-Oct-2016 19:26:57 Etc/GMT] PHP Notice:  Undefined variable: UserType in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 224
+[18-Oct-2016 19:26:57 Etc/GMT] PHP Notice:  Undefined variable: UserType in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 231
+[18-Oct-2016 19:26:57 Etc/GMT] PHP Notice:  Undefined variable: UserType in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 250
+[18-Oct-2016 19:30:16 Etc/GMT] PHP Notice:  Undefined variable: UserType in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 224
+[18-Oct-2016 19:30:16 Etc/GMT] PHP Notice:  Undefined variable: UserType in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 231
+[18-Oct-2016 19:30:16 Etc/GMT] PHP Notice:  Undefined variable: UserType in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 250
+[18-Oct-2016 19:33:18 Etc/GMT] PHP Notice:  Undefined variable: UserPasswordGet in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 253
+[18-Oct-2016 19:33:18 Etc/GMT] PHP Notice:  Undefined variable: UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 260
+[18-Oct-2016 19:33:18 Etc/GMT] PHP Notice:  Undefined index:  in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 260
+[18-Oct-2016 19:53:03 Etc/GMT] PHP Notice:  Undefined variable: retval in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 156
+[18-Oct-2016 19:53:47 Etc/GMT] PHP Notice:  Undefined variable: retval in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 156
+[18-Oct-2016 19:54:10 Etc/GMT] PHP Notice:  Undefined variable: retval in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 156
+[18-Oct-2016 19:56:13 Etc/GMT] PHP Notice:  Undefined variable: retval in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 156
+[18-Oct-2016 19:58:10 Etc/GMT] PHP Notice:  Undefined variable: retval in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 157
+[18-Oct-2016 19:58:56 Etc/GMT] PHP Notice:  Undefined variable: retval in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 157
+[18-Oct-2016 19:59:23 Etc/GMT] PHP Notice:  Undefined variable: retval in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 157
+[18-Oct-2016 19:59:47 Etc/GMT] PHP Notice:  Undefined variable: retval in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 157
+[18-Oct-2016 20:01:28 Etc/GMT] PHP Notice:  Undefined variable: retval in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 159
+[18-Oct-2016 20:02:02 Etc/GMT] PHP Notice:  Undefined variable: retval in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 159
+[18-Oct-2016 21:01:16 Etc/GMT] PHP Notice:  Undefined variable: UserPasswordGet in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 261
+[18-Oct-2016 21:01:16 Etc/GMT] PHP Notice:  Undefined variable: UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 268
+[18-Oct-2016 21:01:16 Etc/GMT] PHP Notice:  Undefined index:  in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 268
+[18-Oct-2016 21:05:07 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Oct-2016 22:34:55 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[18-Oct-2016 22:34:55 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[18-Oct-2016 22:34:55 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Oct-2016 22:34:55 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 9
+[18-Oct-2016 22:36:28 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Oct-2016 22:37:39 Etc/GMT] PHP Notice:  Undefined index: email251 in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 128
+[18-Oct-2016 22:38:17 Etc/GMT] PHP Notice:  Undefined variable: UserPasswordGet in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 278
+[18-Oct-2016 22:38:17 Etc/GMT] PHP Notice:  Undefined variable: UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 285
+[18-Oct-2016 22:38:17 Etc/GMT] PHP Notice:  Undefined index:  in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 285
+[19-Oct-2016 08:28:12 Etc/GMT] PHP Notice:  Undefined index: email251 in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 128
+[19-Oct-2016 08:29:52 Etc/GMT] PHP Notice:  Undefined index: email251 in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 128
+[19-Oct-2016 17:42:15 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[20-Oct-2016 04:37:29 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[21-Oct-2016 07:22:58 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[21-Oct-2016 07:27:09 Etc/GMT] PHP Notice:  Undefined index: email251 in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 128
+[21-Oct-2016 19:57:07 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 7
+[21-Oct-2016 19:57:07 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 8
+[21-Oct-2016 19:57:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 63
+[21-Oct-2016 19:57:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 63
+[21-Oct-2016 19:58:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 15
+[21-Oct-2016 19:59:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 15
+[21-Oct-2016 19:59:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 15
+[21-Oct-2016 19:59:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 15
+[21-Oct-2016 20:01:26 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 6
+[21-Oct-2016 20:01:26 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 7
+[21-Oct-2016 20:01:26 Etc/GMT] PHP Notice:  Undefined variable: Name in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 31
+[21-Oct-2016 20:01:59 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 6
+[21-Oct-2016 20:01:59 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 7
+[21-Oct-2016 20:01:59 Etc/GMT] PHP Notice:  Undefined variable: Name in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 31
+[21-Oct-2016 20:02:37 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 6
+[21-Oct-2016 20:02:37 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 7
+[21-Oct-2016 20:02:37 Etc/GMT] PHP Notice:  Undefined variable: Name in /home/risinola/public_html/anujtestmodule.online/pages/feedback.php on line 30
+[21-Oct-2016 20:37:19 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[04-Nov-2016 16:57:13 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[04-Nov-2016 16:57:13 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[04-Nov-2016 16:57:13 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[04-Nov-2016 16:57:13 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 9
+[06-Nov-2016 04:13:34 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[06-Nov-2016 15:18:06 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[06-Nov-2016 15:35:49 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[06-Nov-2016 15:35:49 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[06-Nov-2016 15:35:49 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[06-Nov-2016 15:35:49 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 9
+[07-Nov-2016 10:59:28 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[07-Nov-2016 10:59:57 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[08-Nov-2016 17:00:51 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[08-Nov-2016 17:00:51 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[08-Nov-2016 17:00:51 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[08-Nov-2016 17:00:51 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 9
+[12-Nov-2016 07:59:52 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[12-Nov-2016 07:59:52 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[12-Nov-2016 07:59:52 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[12-Nov-2016 07:59:52 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 9
+[13-Nov-2016 15:38:34 Etc/GMT] PHP Notice:  Undefined index: userid in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 6
+[13-Nov-2016 15:38:34 Etc/GMT] PHP Notice:  Undefined index: password in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 7
+[13-Nov-2016 15:38:34 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[13-Nov-2016 15:38:34 Etc/GMT] PHP Notice:  Undefined index: typeoflogin in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 9
+[13-Nov-2016 15:38:52 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[16-Nov-2016 15:26:15 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[17-Nov-2016 15:46:05 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Nov-2016 04:41:04 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Nov-2016 05:28:20 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Nov-2016 07:04:30 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Nov-2016 08:24:38 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Nov-2016 13:54:00 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Nov-2016 14:50:18 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Nov-2016 15:06:28 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Nov-2016 15:08:02 Etc/GMT] PHP Notice:  Undefined index: email251 in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 128
+[18-Nov-2016 15:18:03 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Nov-2016 19:05:27 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[19-Nov-2016 05:45:51 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[20-Nov-2016 18:20:08 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[20-Nov-2016 20:24:29 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[20-Nov-2016 20:24:56 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[20-Nov-2016 20:34:50 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Nov-2016 16:22:02 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Nov-2016 16:26:24 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Nov-2016 18:04:58 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Nov-2016 19:32:51 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Nov-2016 19:55:20 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Nov-2016 20:37:54 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Nov-2016 12:00:18 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Nov-2016 15:21:09 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Nov-2016 16:16:44 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Nov-2016 19:59:43 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[24-Nov-2016 07:25:56 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[25-Nov-2016 05:19:45 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[25-Nov-2016 05:32:56 Etc/GMT] PHP Notice:  Undefined index: email251 in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 128
+[25-Nov-2016 05:33:38 Etc/GMT] PHP Notice:  Undefined variable: UserPasswordGet in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 259
+[25-Nov-2016 05:33:38 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 259
+[25-Nov-2016 05:33:38 Etc/GMT] PHP Notice:  Undefined variable: UserDepartmentGet in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 266
+[25-Nov-2016 05:33:38 Etc/GMT] PHP Notice:  Undefined index:  in /home/risinola/public_html/anujtestmodule.online/pages/generateotp.php on line 266
+[27-Nov-2016 13:55:04 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[10-Jan-2017 13:10:31 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[17-Jan-2017 07:43:50 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Jan-2017 06:29:55 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[18-Jan-2017 10:45:28 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[19-Jan-2017 03:01:26 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[19-Jan-2017 06:56:31 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[20-Jan-2017 06:58:53 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[20-Jan-2017 13:33:17 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[20-Jan-2017 13:37:35 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[21-Jan-2017 12:00:45 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[21-Jan-2017 12:10:04 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[21-Jan-2017 15:34:50 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[21-Jan-2017 21:17:05 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 06:35:56 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 07:28:29 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 17:12:34 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 17:17:31 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 18:27:44 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 18:31:14 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 18:42:29 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 18:48:35 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 18:49:50 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 18:50:28 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 18:53:01 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 18:53:17 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 18:59:26 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 19:17:08 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 19:21:00 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[22-Jan-2017 19:21:23 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Jan-2017 07:22:21 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Jan-2017 07:25:35 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Jan-2017 07:49:58 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Jan-2017 07:51:29 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Jan-2017 07:52:21 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Jan-2017 09:27:54 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Jan-2017 09:40:03 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Jan-2017 14:12:25 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[23-Jan-2017 14:23:38 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[24-Jan-2017 17:36:30 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[25-Jan-2017 06:22:03 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8
+[25-Jan-2017 11:21:49 Etc/GMT] PHP Notice:  Undefined index: department in /home/risinola/public_html/anujtestmodule.online/pages/test.php on line 8

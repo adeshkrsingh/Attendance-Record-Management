@@ -1,0 +1,279 @@
+[15-Oct-2016 08:41:51 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg.php on line 118
+[15-Oct-2016 08:56:20 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 44
+[15-Oct-2016 08:56:26 Etc/GMT] PHP Notice:  Undefined index: submit in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 3
+[15-Oct-2016 08:56:26 Etc/GMT] PHP Notice:  Undefined index: SubjectCode in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 8
+[15-Oct-2016 08:56:26 Etc/GMT] PHP Notice:  Undefined index: SubType in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 9
+[15-Oct-2016 08:56:26 Etc/GMT] PHP Notice:  Undefined index: Semester in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 10
+[15-Oct-2016 08:56:26 Etc/GMT] PHP Notice:  Undefined index: Year in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 11
+[15-Oct-2016 08:56:26 Etc/GMT] PHP Notice:  Undefined index: SubjectName in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 14
+[15-Oct-2016 08:56:26 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 44
+[15-Oct-2016 08:57:35 Etc/GMT] PHP Notice:  Undefined index: submit in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 3
+[15-Oct-2016 08:57:35 Etc/GMT] PHP Notice:  Undefined index: SubjectCode in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 8
+[15-Oct-2016 08:57:35 Etc/GMT] PHP Notice:  Undefined index: SubType in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 9
+[15-Oct-2016 08:57:35 Etc/GMT] PHP Notice:  Undefined index: Semester in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 10
+[15-Oct-2016 08:57:35 Etc/GMT] PHP Notice:  Undefined index: Year in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 11
+[15-Oct-2016 08:57:35 Etc/GMT] PHP Notice:  Undefined index: SubjectName in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 14
+[15-Oct-2016 08:57:35 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 44
+[15-Oct-2016 08:57:38 Etc/GMT] PHP Notice:  Undefined index: submit in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 3
+[15-Oct-2016 08:57:38 Etc/GMT] PHP Notice:  Undefined index: SubjectCode in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 8
+[15-Oct-2016 08:57:38 Etc/GMT] PHP Notice:  Undefined index: SubType in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 9
+[15-Oct-2016 08:57:38 Etc/GMT] PHP Notice:  Undefined index: Semester in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 10
+[15-Oct-2016 08:57:38 Etc/GMT] PHP Notice:  Undefined index: Year in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 11
+[15-Oct-2016 08:57:38 Etc/GMT] PHP Notice:  Undefined index: SubjectName in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 14
+[15-Oct-2016 08:57:38 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 44
+[15-Oct-2016 08:57:45 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 44
+[15-Oct-2016 09:00:00 Etc/GMT] PHP Notice:  Undefined index: submit in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 6
+[15-Oct-2016 09:00:00 Etc/GMT] PHP Notice:  Undefined index: SubjectCode in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 7
+[15-Oct-2016 09:00:00 Etc/GMT] PHP Notice:  Undefined index: SubType in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 8
+[15-Oct-2016 09:00:00 Etc/GMT] PHP Notice:  Undefined index: Semester in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 9
+[15-Oct-2016 09:00:00 Etc/GMT] PHP Notice:  Undefined index: Year in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 10
+[15-Oct-2016 09:00:00 Etc/GMT] PHP Notice:  Undefined index: SubjectName in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 13
+[15-Oct-2016 09:50:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 3
+[15-Oct-2016 09:50:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 3
+[15-Oct-2016 09:50:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 3
+[15-Oct-2016 09:51:35 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 3
+[15-Oct-2016 09:52:30 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 3
+[15-Oct-2016 09:52:35 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodsubreg2.php on line 3
+[15-Oct-2016 12:01:33 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:33 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:33 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:46 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:46 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:46 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:46 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 29
+[15-Oct-2016 12:01:50 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:50 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:50 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 54
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 35
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 39
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 115
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 119
+[15-Oct-2016 12:01:51 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 78
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 35
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 39
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 111 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 111 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 115
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 119
+[15-Oct-2016 12:01:53 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 115
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 35
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 39
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 115
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 119
+[15-Oct-2016 12:01:55 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 78
+[15-Oct-2016 12:01:56 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:56 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:56 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:56 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 54
+[15-Oct-2016 12:01:58 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:58 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:58 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:01:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 29
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 35
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 39
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 115
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 119
+[15-Oct-2016 12:02:00 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 78
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 35
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 39
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 111 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 111 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 115
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 119
+[15-Oct-2016 12:02:02 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 115
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 35
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 39
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 115
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 119
+[15-Oct-2016 12:02:03 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 78
+[15-Oct-2016 12:02:04 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:04 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:04 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 54
+[15-Oct-2016 12:02:06 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:06 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:06 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:06 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 29
+[15-Oct-2016 12:02:08 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:08 Etc/GMT] PHP Warning:  include(facultycontent.php): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:08 Etc/GMT] PHP Warning:  include(): Failed opening 'facultycontent.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 1
+[15-Oct-2016 12:02:08 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 29
+[15-Oct-2016 12:03:30 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:03:30 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:03:36 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:03:36 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:03:39 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 58
+[15-Oct-2016 12:03:39 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 58
+[15-Oct-2016 12:03:42 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 35
+[15-Oct-2016 12:03:42 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 39
+[15-Oct-2016 12:03:42 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:03:42 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:03:42 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 115
+[15-Oct-2016 12:03:42 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:03:42 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:03:42 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:03:42 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 119
+[15-Oct-2016 12:03:42 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 78
+[15-Oct-2016 12:03:45 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 35
+[15-Oct-2016 12:03:45 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 39
+[15-Oct-2016 12:03:45 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:03:45 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:03:45 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 115
+[15-Oct-2016 12:03:45 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:03:45 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:03:45 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:03:45 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 119
+[15-Oct-2016 12:03:45 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 78
+[15-Oct-2016 12:03:47 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 35
+[15-Oct-2016 12:03:47 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 39
+[15-Oct-2016 12:03:47 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 111 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:03:47 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 111 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:03:47 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 115
+[15-Oct-2016 12:03:47 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:03:47 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:03:47 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:03:47 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 119
+[15-Oct-2016 12:03:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 115
+[15-Oct-2016 12:03:50 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 35
+[15-Oct-2016 12:03:50 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 39
+[15-Oct-2016 12:03:50 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:03:50 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 110
+[15-Oct-2016 12:03:50 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 115
+[15-Oct-2016 12:03:50 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:03:50 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:03:50 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:03:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 119
+[15-Oct-2016 12:03:50 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 78
+[15-Oct-2016 12:06:37 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 109
+[15-Oct-2016 12:06:37 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 109
+[15-Oct-2016 12:06:37 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 114
+[15-Oct-2016 12:06:37 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 116
+[15-Oct-2016 12:06:37 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 116
+[15-Oct-2016 12:06:37 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:06:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:06:41 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 111 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 109
+[15-Oct-2016 12:06:41 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 111 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 109
+[15-Oct-2016 12:06:41 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 114
+[15-Oct-2016 12:06:41 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 116
+[15-Oct-2016 12:06:41 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 116
+[15-Oct-2016 12:06:41 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:06:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:06:45 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 109
+[15-Oct-2016 12:06:45 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 109
+[15-Oct-2016 12:06:45 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 114
+[15-Oct-2016 12:06:45 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 116
+[15-Oct-2016 12:06:45 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 116
+[15-Oct-2016 12:06:45 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 117
+[15-Oct-2016 12:06:45 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 118
+[15-Oct-2016 12:07:52 Etc/GMT] PHP Fatal error:  Cannot redeclare admin::generateoption() in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 130
+[15-Oct-2016 12:08:00 Etc/GMT] PHP Fatal error:  Cannot redeclare admin::generateoption() in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 130
+[15-Oct-2016 12:08:06 Etc/GMT] PHP Fatal error:  Cannot redeclare admin::generateoption() in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 130
+[15-Oct-2016 12:08:15 Etc/GMT] PHP Fatal error:  Cannot redeclare admin::generateoption() in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 130
+[15-Oct-2016 12:10:29 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 37
+[15-Oct-2016 12:10:29 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 37
+[15-Oct-2016 12:10:29 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'risinola_ironman'@'localhost' to database 'academics' in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 42
+[15-Oct-2016 12:10:29 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 44
+[15-Oct-2016 12:10:29 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 44
+[15-Oct-2016 12:10:29 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 45
+[15-Oct-2016 12:10:32 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 58
+[15-Oct-2016 12:10:32 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 58
+[15-Oct-2016 12:10:35 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:10:35 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:10:38 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:10:38 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:10:41 Etc/GMT] PHP Warning:  Missing argument 1 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 37
+[15-Oct-2016 12:10:41 Etc/GMT] PHP Warning:  Missing argument 2 for admin::generateoption(), called in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 74 and defined in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 37
+[15-Oct-2016 12:10:41 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'risinola_ironman'@'localhost' to database 'academics' in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 42
+[15-Oct-2016 12:10:41 Etc/GMT] PHP Notice:  Undefined variable: arr in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 44
+[15-Oct-2016 12:10:41 Etc/GMT] PHP Notice:  Undefined variable: position in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 44
+[15-Oct-2016 12:10:41 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 45
+[15-Oct-2016 12:11:23 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'risinola_ironman'@'localhost' to database 'academics' in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 42
+[15-Oct-2016 12:11:23 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 45
+[15-Oct-2016 12:11:27 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'risinola_ironman'@'localhost' to database 'academics' in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 42
+[15-Oct-2016 12:11:27 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 45
+[15-Oct-2016 12:11:29 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 58
+[15-Oct-2016 12:11:29 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 58
+[15-Oct-2016 12:11:32 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'risinola_ironman'@'localhost' to database 'academics' in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 42
+[15-Oct-2016 12:11:32 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/risinola/public_html/anujtestmodule.online/pages/hod/package.php on line 45
+[15-Oct-2016 12:13:04 Etc/GMT] PHP Fatal error:  Call to undefined method admin::UpdateValue() in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 160
+[15-Oct-2016 12:13:08 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:13:08 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:14:48 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:14:48 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:16:05 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 58
+[15-Oct-2016 12:16:05 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 58
+[15-Oct-2016 12:16:08 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:16:08 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 33
+[15-Oct-2016 12:29:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 167
+[15-Oct-2016 12:29:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 167
+[15-Oct-2016 12:29:52 Etc/GMT] PHP Notice:  Undefined index: ActivePart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 59
+[15-Oct-2016 12:29:52 Etc/GMT] PHP Notice:  Undefined index: TotalPart in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_suballotment.php on line 59
+[16-Oct-2016 19:51:56 Etc/GMT] PHP Warning:  move_uploaded_file(profile//_20160902_095931.JPG): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_updateprofile.php on line 153
+[16-Oct-2016 19:51:56 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdtBl4u' to 'profile//_20160902_095931.JPG' in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_updateprofile.php on line 153
+[16-Oct-2016 19:53:47 Etc/GMT] PHP Warning:  move_uploaded_file(profile/aksir01@gmail.com/_20160902_095931.JPG): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_updateprofile.php on line 153
+[16-Oct-2016 19:53:47 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGdJU3y' to 'profile/aksir01@gmail.com/_20160902_095931.JPG' in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_updateprofile.php on line 153
+[16-Oct-2016 19:55:23 Etc/GMT] PHP Warning:  move_uploaded_file(profile/aksir01@gmail.com/_20160902_095931.JPG): failed to open stream: No such file or directory in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_updateprofile.php on line 153
+[16-Oct-2016 19:55:23 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuXjDvF' to 'profile/aksir01@gmail.com/_20160902_095931.JPG' in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_updateprofile.php on line 153
+[16-Oct-2016 20:09:45 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_subregistration.php on line 150
+[16-Oct-2016 20:09:48 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_subregistration.php on line 150
+[16-Oct-2016 20:10:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/risinola/public_html/anujtestmodule.online/pages/hod/h_subregistration.php on line 150
+[21-Oct-2016 20:23:46 Etc/GMT] PHP Notice:  Undefined variable: default in /home/risinola/public_html/anujtestmodule.online/pages/hod/content.php on line 72
+[21-Oct-2016 20:23:46 Etc/GMT] PHP Notice:  Undefined variable: default in /home/risinola/public_html/anujtestmodule.online/pages/hod/content.php on line 97
+[21-Oct-2016 20:23:46 Etc/GMT] PHP Notice:  Undefined variable: Name in /home/risinola/public_html/anujtestmodule.online/pages/hod/content.php on line 98
+[21-Oct-2016 20:24:31 Etc/GMT] PHP Notice:  Undefined variable: default in /home/risinola/public_html/anujtestmodule.online/pages/hod/content.php on line 72
+[21-Oct-2016 20:24:31 Etc/GMT] PHP Notice:  Undefined variable: default in /home/risinola/public_html/anujtestmodule.online/pages/hod/content.php on line 97
+[21-Oct-2016 20:24:31 Etc/GMT] PHP Notice:  Undefined variable: Name in /home/risinola/public_html/anujtestmodule.online/pages/hod/content.php on line 98
+[21-Oct-2016 20:24:34 Etc/GMT] PHP Notice:  Undefined variable: default in /home/risinola/public_html/anujtestmodule.online/pages/hod/content.php on line 72
+[21-Oct-2016 20:24:34 Etc/GMT] PHP Notice:  Undefined variable: default in /home/risinola/public_html/anujtestmodule.online/pages/hod/content.php on line 97
+[21-Oct-2016 20:24:34 Etc/GMT] PHP Notice:  Undefined variable: Name in /home/risinola/public_html/anujtestmodule.online/pages/hod/content.php on line 98
+[21-Oct-2016 20:28:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodfeedback.php on line 7
+[21-Oct-2016 20:28:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodfeedback.php on line 7
+[21-Oct-2016 20:29:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodfeedback.php on line 7
+[21-Oct-2016 20:29:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodfeedback.php on line 7
+[21-Oct-2016 20:30:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodfeedback.php on line 7
+[21-Oct-2016 20:30:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/risinola/public_html/anujtestmodule.online/pages/hod/hodfeedback.php on line 7

@@ -1,0 +1,132 @@
+body,
+html {
+  
+  margin: 0;
+  padding-right: 0px;
+  font-family: helvetica;
+  font-weight: 100;
+
+}
+
+.container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  -webkit-transition: left 0.4s ease-in-out;
+  -moz-transition: left 0.4s ease-in-out;
+  -ms-transition: left 0.4s ease-in-out;
+  -o-transition: left 0.4s ease-in-out;
+  transition: left 0.4s ease-in-out;
+       padding-right: 0px;
+     padding-left: 00px; 
+}
+
+.container.open-sidebar { left: 240px; }
+
+.swipe-area {
+  position: absolute;
+  width: 50px;
+  left: 0;
+  top: 0;
+  
+  
+  z-index: 0;
+}
+
+#sidebar {
+  background: #1b262f;
+  position: absolute;
+  width: 240px;
+  height: 660px;
+  left: -240px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+#sidebar ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#sidebar ul li { margin: 0; }
+
+#sidebar ul li a {
+  padding: 15px 20px;
+  font-size: 13px;
+  font-weight: 100;
+  color: white;
+  text-decoration: none;
+  display: block;
+  
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  -ms-transition: background 0.3s ease-in-out;
+  -o-transition: background 0.3s ease-in-out;
+  transition: background 0.3s ease-in-out;
+}
+
+#sidebar ul li:hover a { background: #C9223D; padding-left: 50px; }
+
+.main-content {
+  width: 100%;
+  height: 100%;
+  
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  position: relative;
+}
+
+.main-content .content {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+ 
+  width: 100%;
+}
+
+.main-content .content h1 { font-weight: 100; }
+
+.main-content .content p {
+  width: 100%;
+  line-height: 160%;
+}
+
+.main-content #sidebar-toggle {
+  
+  display: block;
+  position: relative;
+  padding: 24px 12px;
+  float: left;
+}
+
+.main-content #sidebar-toggle .bar {
+  display: block;
+  width: 26px;
+  margin-bottom: 3px;
+  height: 5px;
+  background-color: #000;
+  border-radius: 1px;
+}
+
+.main-content #sidebar-toggle .bar:last-child { margin-bottom: 0; }
+h3{
+  margin-top: 0px;
+  padding-top: 22px;
+  padding-left: 20px;
+}
+h3:hover{
+  color: blue;
+}
+
+.dropdown-menu>li>a{
+    color: #f5f5f5;
+
+  }
+  .dropdown-menu>li>a:hover{
+    background-color: #C9223D;
+    color: #f5f5f5;
+  }
+  #qwe a#menu1 a:hover{
+    color: red;
+  }
